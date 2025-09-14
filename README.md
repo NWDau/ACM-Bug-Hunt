@@ -2,4 +2,5 @@
 ## Challenges: 
 |  **Type**  |  **Challenge**  |  **Points**  |
 |---|---|---|
-|  Syntax  |  Inquiry  |  3  | 
+|  Runtime  |  [Inquiry](inquiry.md)  |  3  | 
+|  Runtime  |  [Grader]  |  4  |
