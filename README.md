@@ -3,4 +3,4 @@
 |  **Type**  |  **Challenge**  |  **Points**  |
 |---|---|---|
 |  Runtime  |  [Inquiry](inquiry.md)  |  3  | 
-|  Runtime  |  [Grader]  |  4  |
+|  Runtime  |  [CalcGrade](CalcGrade.md)  |  4  |
