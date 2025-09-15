@@ -3,7 +3,7 @@ total = 0
 for i in range(5):
     while True:
         try:
-            temp = int(input("Enter an interger: "))
+            temp = int(input("Enter an integer: "))
             break
         except ValueError:
             print("Invalid value. Please try again.")
