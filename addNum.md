@@ -1,7 +1,7 @@
 ## addNum
 [Code](addNum.py) <br>
 This program takes 5 integers as input and returns their sum. <br>
-Additionally, this program uses ***input validation*** to prevent the user from inputting invalid data types.
+Additionally, this program uses ***input validation*** to prevent the user from inputting invalid data types. (Programs that correctly calculate the sum of the inputted values but do not validate input will not be accepted.)
 <br><br>
 ### Sample Output
 `Enter an integer: ` **`4`** <br>
