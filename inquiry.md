@@ -1,5 +1,5 @@
 ## Inquiry
-[Code](inquiry.py)
+[Code](inquiry.py) <br>
 This program is designed to take 2 sets of input:
 - One line containing an integer (*n*) between $2$ and ${10}^6$
 - The following *n* lines, each containing an int between $1$ and $100$
