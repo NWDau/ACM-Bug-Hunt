@@ -4,10 +4,10 @@ for i in range(5):
     while True:
         try:
             temp = int(input("Enter an integer: "))
-            break
+            total += temp
         except ValueError:
             print("Invalid value. Please try again.")
             continue
-        total += temp
+        
 
 print("Total: ", total)
