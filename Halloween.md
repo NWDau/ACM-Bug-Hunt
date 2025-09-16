@@ -10,13 +10,14 @@ Help him and get your passcode!
 
 [Picture of Pumpkin Pete](PumpkinPete.png)
 
-Input
+**Input**<br>
 The input consists of one line, which contains three integers. The first integer, 
 N indicates the number of eye designs. The second integer, 
 T indicates the number of nose designs. The third integer, 
 M indicates the number of mouth designs.
 
-Output a single line containing the number of different possible Jack-O’-Lantern designs.
+**Output**<br>
+A single line containing the number of different possible Jack-O’-Lantern designs.
 
 <br><br>
 ### Sample Output
