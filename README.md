@@ -7,3 +7,4 @@
 |  Runtime  |  [CalcGrade](CalcGrade.md)  |  4  |
 |  Logic  |  [AddNum](addNum.md)  |  4  |
 |  Logic  |  [ANewAlphabet](anewalphabet.md)  |  5  |
+|  Logic  |  [SodaSlurper](sodaslurper.md)  |  5  |
