@@ -3,7 +3,7 @@
 
 This program is designed to take input and encrypt it with our secret language: <br>
 
-[Secret Language Translation](SecretLanguage)
+[Secret Language Translation](SecretLanguage.png)
 
 Fix the bugs in the program so that we can continue to communicate with our fellow alien friends...
 and so **YOU** can get your next passcode!
