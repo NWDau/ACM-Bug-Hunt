@@ -1,6 +1,7 @@
 ## ANewAlphabet
 [Code](anewalphabet.py) <br>
-This program is designed to take input and encrypt it with our secret language:
+
+This program is designed to take input and encrypt it with our secret language: <br>
 [Secret Language Translation](secretlanguage)
 
 
