@@ -1,4 +1,6 @@
 # NWMSU ACM Bug Hunt
+Welcome the Northwest Missouri State University Association for Computing Machinery Bug Hunt!<br>
+~~what a title~~
 ## Challenges: 
 |  **Type**  |  **Challenge**  |  **Points**  |
 |---|---|---|
@@ -9,3 +11,6 @@
 |  Logic  |  [AddNum](addNum.md)  |  4  |
 |  Logic  |  [ANewAlphabet](anewalphabet.md)  |  5  |
 |  Logic  |  [SodaSlurper](SodaSlurper.md)  |  5  |
+## Helpful Resources
+- [W3](https://www.w3schools.com/python/)
+- [Python Docs](https://docs.python.org/3/tutorial/index.html)
