@@ -2,7 +2,8 @@
 [Code](anewalphabet.py) <br>
 
 This program is designed to take input and encrypt it with our secret language: <br>
-[Secret Language Translation](secretlanguage)
+
+[Secret Language Translation](SecretLanguage)
 
 
 
@@ -10,13 +11,9 @@ This program is designed to take input and encrypt it with our secret language: 
 ### Sample Output
 **Input**
 ```
-88
-79
-32
-56
+All your base are belong to us.
 ```
 **Ouput**
 ```
-Average: 63.75 
-Grade: D
+@11 `/0|_||Z 8@$3 @|Z3 8310[]\[]6 ']['0 |_|$.
 ```
