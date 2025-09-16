@@ -14,3 +14,5 @@ Additionally, this program uses ***input validation*** to prevent the user from 
 `Enter an integer: ` **`2`** <br>
 `Enter an integer: ` **`7`** <br>
 `Total: 30`
+
+

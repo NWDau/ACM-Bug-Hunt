@@ -19,5 +19,5 @@ exams = [0]*4
 for i in range(4):
   exams[i] = float(input("Enter exam score: "))
 ##calc average score & grade
-avg = calcAvg(exams[1], exams[2], exams[3], exams[4])
+avg = calcAvg(exams[0], exams[1], exams[2], exams[3])
 print("Average:", avg, "\nGrade:", grade(avg))

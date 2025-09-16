@@ -5,9 +5,13 @@ for i in range(5):
         try:
             temp = int(input("Enter an integer: "))
             total += temp
+            i += 1
+            break
         except ValueError:
             print("Invalid value. Please try again.")
             continue
+    
+
         
 
 print("Total: ", total)

@@ -1,19 +1,20 @@
-my_dict = {"a":"@", "a":"8", "c":"(", "d":"|)",
-"c":"3","e":"#", "e":"6", "g":"[-]", "g":"|",
-"i":"_|", "i":"|<", "k":"1", "k":"[]\/[]",
-"m":"[]\[]", "m":"0", "o":"|D", "o":"(,)",
-"r":"|Z", "r":"$", "t":"']['", "t":"|_|",
-"v":"\/", "v":"\/\/", "x":"}{", "x":"`/",
+my_dict = {"a":"@", "b":"8", "c":"(", "d":"|)",
+"e":"3","f":"#", "g":"6", "h":"[-]", "i":"|",
+"j":"_|", "k":"|<", "l":"1", "m":"[]\/[]",
+"n":"[]\[]", "o":"0", "p":"|D", "q":"(,)",
+"r":"|Z", "s":"$", "t":"']['", "u":"|_|",
+"v":"\/", "w":"\/\/", "x":"}{", "y":"`/",
 "z":"2"}
 
-string = input("What's the c0de?");
+string = input("What's the c0de?")
 
 string2 = ""
 
 for char in string.lower():
-    if string in my_dict:
-        string += my_dict.get(char)
+    if char in my_dict:
+        string2 += my_dict.get(char)
     else:
-        string += char
+        string2 += char
 
-print(string)
+print(string2)
+
