@@ -3,7 +3,7 @@
 
 This program is designed to take input and encrypt it with our secret language: <br>
 
-[Secret Language Translation](SecretLanguage)
+[Picture of Soda](Soda)
 
 Tim is an absolutely obsessive soda drinker; he cannot get enough. 
 Most annoyingly, though, he rarely has any money, so his only obvious legal 
