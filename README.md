@@ -1,5 +1,6 @@
 # NWMSU ACM Bug Hunt
 Welcome the Northwest Missouri State University Association for Computing Machinery Bug Hunt!<br>
+**Click [here](https://kaicrabb.github.io/debug-quest/) to enter the passcodes!**
 
 ## Challenges: 
 |  **Type**  |  **Challenge**  |  **Points**  |
