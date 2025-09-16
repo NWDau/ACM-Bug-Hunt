@@ -5,7 +5,8 @@ This program is designed to take input and encrypt it with our secret language: 
 
 [Secret Language Translation](SecretLanguage)
 
-
+Fix the bugs in the program so that we can continue to communicate with our fellow alien friends...
+and so **YOU** can get your next passcode!
 
 <br><br>
 ### Sample Output
