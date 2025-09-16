@@ -18,7 +18,7 @@ M indicates the number of mouth designs.
 
 Output a single line containing the number of different possible Jack-O’-Lantern designs.
 
-<br><br>
+<br>
 ### Sample Output
 **Input**
 ```
